@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/357be6b9b05a439799d3b1d43e03f77e/artifacts
+end_time: 1757555868407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 357be6b9b05a439799d3b1d43e03f77e
+run_name: blushing-lynx-173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757555860154
+status: 3
+tags: []
+user_id: alsto

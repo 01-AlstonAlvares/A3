@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/c6963d7fe17049ff95872c350ee5b564/artifacts
+end_time: 1757487230462
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: c6963d7fe17049ff95872c350ee5b564
+run_name: nosy-finch-293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757487229398
+status: 3
+tags: []
+user_id: alsto

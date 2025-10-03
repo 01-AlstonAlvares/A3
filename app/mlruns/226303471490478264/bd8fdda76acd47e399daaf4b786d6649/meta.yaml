@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/bd8fdda76acd47e399daaf4b786d6649/artifacts
+end_time: 1757496894793
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: bd8fdda76acd47e399daaf4b786d6649
+run_name: skillful-zebra-747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757496894549
+status: 3
+tags: []
+user_id: alsto

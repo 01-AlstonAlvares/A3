@@ -1,0 +1,22 @@
+version: '3.9'
+
+services:
+  model-tester:
+    command: tail -f /dev/null
+    image: alstonalvares/a3:st126488
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 9001:80
+    volumes:
+      - ./code:/root/code
+      - ./.vscode-server:/root/.vscode-server
+    environment:
+      - MLFLOW_TRACKING_USERNAME=admin
+      - MLFLOW_TRACKING_PASSWORD=password
+
+
+
+
+

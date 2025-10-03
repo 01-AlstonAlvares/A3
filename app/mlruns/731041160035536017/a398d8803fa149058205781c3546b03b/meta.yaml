@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/a398d8803fa149058205781c3546b03b/artifacts
+end_time: 1757467094925
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: a398d8803fa149058205781c3546b03b
+run_name: incongruous-lynx-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757467089212
+status: 3
+tags: []
+user_id: alsto

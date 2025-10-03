@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/f66c2460e90b4af599278fab71aebb3f/artifacts
+end_time: 1757556585916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f66c2460e90b4af599278fab71aebb3f
+run_name: unique-cow-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757556585133
+status: 3
+tags: []
+user_id: alsto

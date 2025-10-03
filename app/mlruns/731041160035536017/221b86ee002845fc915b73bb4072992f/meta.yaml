@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/221b86ee002845fc915b73bb4072992f/artifacts
+end_time: 1757434002788
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 221b86ee002845fc915b73bb4072992f
+run_name: smiling-seal-268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757433983502
+status: 3
+tags: []
+user_id: alsto

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/257bdf4b828c403abc73fe1545c9506c/artifacts
+end_time: 1757555000449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 257bdf4b828c403abc73fe1545c9506c
+run_name: fortunate-turtle-630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757554999972
+status: 3
+tags: []
+user_id: alsto

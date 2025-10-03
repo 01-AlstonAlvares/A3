@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/f316680d65364091a699bc5e0e4c7dd7/artifacts
+end_time: 1757487221980
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: f316680d65364091a699bc5e0e4c7dd7
+run_name: fearless-doe-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757487220514
+status: 3
+tags: []
+user_id: alsto

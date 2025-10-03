@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/c7a1b493fd3b4953ba9f314b46fc2139/artifacts
+end_time: 1757556446824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7a1b493fd3b4953ba9f314b46fc2139
+run_name: youthful-gnat-206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757556443659
+status: 3
+tags: []
+user_id: alsto

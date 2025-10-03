@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/54f7617c561b40e3ad837e57abe5d6b8/artifacts
+end_time: 1757555058316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54f7617c561b40e3ad837e57abe5d6b8
+run_name: sassy-vole-569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757555057074
+status: 3
+tags: []
+user_id: alsto

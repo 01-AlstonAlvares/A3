@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/d8a70609eaed43b5a9a32230e39fee90/artifacts
+end_time: 1757675437211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8a70609eaed43b5a9a32230e39fee90
+run_name: vaunted-ray-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757675433058
+status: 3
+tags: []
+user_id: alsto

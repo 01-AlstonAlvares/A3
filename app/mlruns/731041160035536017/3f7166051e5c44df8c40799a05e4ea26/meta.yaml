@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/3f7166051e5c44df8c40799a05e4ea26/artifacts
+end_time: 1757240105066
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 3f7166051e5c44df8c40799a05e4ea26
+run_name: mysterious-crab-89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757240099254
+status: 3
+tags: []
+user_id: alsto

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/760e6b78472a4cebac4e6f9af2322591/artifacts
+end_time: 1757433044063
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 760e6b78472a4cebac4e6f9af2322591
+run_name: adorable-deer-189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757433042869
+status: 3
+tags: []
+user_id: alsto

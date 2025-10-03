@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/0693e10298dd45748adc9140df00e8fd/artifacts
+end_time: 1757487614366
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: 0693e10298dd45748adc9140df00e8fd
+run_name: bemused-fish-416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757487614039
+status: 3
+tags: []
+user_id: alsto

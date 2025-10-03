@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/00fcce3f2c9f4c3287bc13872ce182d9/artifacts
+end_time: 1757555991902
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00fcce3f2c9f4c3287bc13872ce182d9
+run_name: bittersweet-kit-734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757555979336
+status: 3
+tags: []
+user_id: alsto

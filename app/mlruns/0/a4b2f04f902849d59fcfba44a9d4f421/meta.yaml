@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/a4b2f04f902849d59fcfba44a9d4f421/artifacts
+end_time: 1757556450634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4b2f04f902849d59fcfba44a9d4f421
+run_name: magnificent-koi-30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757556449643
+status: 3
+tags: []
+user_id: alsto

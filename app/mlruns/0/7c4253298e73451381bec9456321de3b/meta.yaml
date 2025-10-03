@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/7c4253298e73451381bec9456321de3b/artifacts
+end_time: 1757671620480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c4253298e73451381bec9456321de3b
+run_name: burly-vole-385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757671616948
+status: 3
+tags: []
+user_id: alsto

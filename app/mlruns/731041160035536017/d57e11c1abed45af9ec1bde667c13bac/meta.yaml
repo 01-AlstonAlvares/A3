@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/d57e11c1abed45af9ec1bde667c13bac/artifacts
+end_time: 1757433914603
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: d57e11c1abed45af9ec1bde667c13bac
+run_name: grandiose-carp-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757433913417
+status: 3
+tags: []
+user_id: alsto

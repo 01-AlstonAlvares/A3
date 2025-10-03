@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/3cd4d864bbdd4c2fbeaf60ba16fac356/artifacts
+end_time: 1757671682745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cd4d864bbdd4c2fbeaf60ba16fac356
+run_name: whimsical-smelt-893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757671660971
+status: 3
+tags: []
+user_id: alsto

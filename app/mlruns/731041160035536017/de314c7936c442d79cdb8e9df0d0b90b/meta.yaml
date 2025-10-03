@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/de314c7936c442d79cdb8e9df0d0b90b/artifacts
+end_time: 1757240324888
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: de314c7936c442d79cdb8e9df0d0b90b
+run_name: incongruous-bass-383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757240324544
+status: 3
+tags: []
+user_id: alsto

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/2afb5ec8799441d3bc167a8b876fe44f/artifacts
+end_time: 1757495638126
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: 2afb5ec8799441d3bc167a8b876fe44f
+run_name: luxuriant-rat-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495637746
+status: 3
+tags: []
+user_id: alsto

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/03328b7b7c2b44c5abc591a7d1916f47/artifacts
+end_time: 1757487030687
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 03328b7b7c2b44c5abc591a7d1916f47
+run_name: unequaled-hog-267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757487030248
+status: 3
+tags: []
+user_id: alsto

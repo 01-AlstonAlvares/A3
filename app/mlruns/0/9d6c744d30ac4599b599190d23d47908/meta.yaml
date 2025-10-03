@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/9d6c744d30ac4599b599190d23d47908/artifacts
+end_time: 1757671940121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d6c744d30ac4599b599190d23d47908
+run_name: bedecked-hare-629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757671936443
+status: 3
+tags: []
+user_id: alsto

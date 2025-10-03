@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/f401dc4c8cfa41b7b388bff505f2a978/artifacts
+end_time: 1757556229815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f401dc4c8cfa41b7b388bff505f2a978
+run_name: auspicious-bass-269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757556226412
+status: 3
+tags: []
+user_id: alsto

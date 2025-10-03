@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/e434be82baa642c3826fe5856e556338/artifacts
+end_time: 1757588270478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e434be82baa642c3826fe5856e556338
+run_name: spiffy-goat-250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757588269073
+status: 3
+tags: []
+user_id: alsto

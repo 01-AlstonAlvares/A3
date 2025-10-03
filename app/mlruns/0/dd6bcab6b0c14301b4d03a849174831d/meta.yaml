@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/dd6bcab6b0c14301b4d03a849174831d/artifacts
+end_time: 1757588248624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd6bcab6b0c14301b4d03a849174831d
+run_name: sneaky-gnu-113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757588243042
+status: 3
+tags: []
+user_id: alsto

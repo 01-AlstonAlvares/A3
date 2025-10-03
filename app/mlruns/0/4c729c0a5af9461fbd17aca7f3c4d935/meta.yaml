@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/4c729c0a5af9461fbd17aca7f3c4d935/artifacts
+end_time: 1757556526330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c729c0a5af9461fbd17aca7f3c4d935
+run_name: melodic-worm-874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757556507860
+status: 3
+tags: []
+user_id: alsto

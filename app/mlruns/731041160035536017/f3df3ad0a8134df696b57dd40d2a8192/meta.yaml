@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/f3df3ad0a8134df696b57dd40d2a8192/artifacts
+end_time: 1757433107940
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: f3df3ad0a8134df696b57dd40d2a8192
+run_name: invincible-lark-658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757433106612
+status: 3
+tags: []
+user_id: alsto

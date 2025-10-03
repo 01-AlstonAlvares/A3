@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/de2478db672148519afc713189734aac/artifacts
+end_time: 1757432828672
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: de2478db672148519afc713189734aac
+run_name: capricious-swan-449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757432822398
+status: 3
+tags: []
+user_id: alsto

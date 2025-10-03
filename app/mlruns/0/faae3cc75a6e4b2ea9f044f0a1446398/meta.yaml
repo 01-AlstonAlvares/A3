@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/faae3cc75a6e4b2ea9f044f0a1446398/artifacts
+end_time: 1757729429687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: faae3cc75a6e4b2ea9f044f0a1446398
+run_name: funny-croc-915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757729426338
+status: 3
+tags: []
+user_id: alsto

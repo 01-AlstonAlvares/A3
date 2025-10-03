@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/171a37381a6f4e34acd1ac5a9a9d8593/artifacts
+end_time: 1757433677482
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 171a37381a6f4e34acd1ac5a9a9d8593
+run_name: suave-sheep-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757433670184
+status: 3
+tags: []
+user_id: alsto

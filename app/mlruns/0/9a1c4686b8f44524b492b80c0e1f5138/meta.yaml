@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/9a1c4686b8f44524b492b80c0e1f5138/artifacts
+end_time: 1757673043463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a1c4686b8f44524b492b80c0e1f5138
+run_name: bright-quail-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757673042787
+status: 3
+tags: []
+user_id: alsto

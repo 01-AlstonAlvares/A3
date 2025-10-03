@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/de5bebd1b9844a31ac2c0aa1898e24a5/artifacts
+end_time: 1757497001470
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: de5bebd1b9844a31ac2c0aa1898e24a5
+run_name: enchanting-lark-842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757497001230
+status: 3
+tags: []
+user_id: alsto

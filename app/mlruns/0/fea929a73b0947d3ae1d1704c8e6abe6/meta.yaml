@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/fea929a73b0947d3ae1d1704c8e6abe6/artifacts
+end_time: 1757675023271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fea929a73b0947d3ae1d1704c8e6abe6
+run_name: popular-bear-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757675022717
+status: 3
+tags: []
+user_id: alsto

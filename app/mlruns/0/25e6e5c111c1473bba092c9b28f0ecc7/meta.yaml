@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/25e6e5c111c1473bba092c9b28f0ecc7/artifacts
+end_time: 1757675295122
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25e6e5c111c1473bba092c9b28f0ecc7
+run_name: handsome-wren-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757675290667
+status: 3
+tags: []
+user_id: alsto

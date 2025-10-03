@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/e52ce6f0c45543e0a95d8abfc83d23ba/artifacts
+end_time: 1757729799193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e52ce6f0c45543e0a95d8abfc83d23ba
+run_name: auspicious-wren-715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757729797902
+status: 3
+tags: []
+user_id: alsto

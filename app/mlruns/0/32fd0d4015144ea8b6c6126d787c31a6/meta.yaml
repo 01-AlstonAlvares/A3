@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/32fd0d4015144ea8b6c6126d787c31a6/artifacts
+end_time: 1757672357048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32fd0d4015144ea8b6c6126d787c31a6
+run_name: amusing-squirrel-749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757672333668
+status: 3
+tags: []
+user_id: alsto

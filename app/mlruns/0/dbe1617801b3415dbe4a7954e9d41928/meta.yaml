@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/dbe1617801b3415dbe4a7954e9d41928/artifacts
+end_time: 1757555191882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbe1617801b3415dbe4a7954e9d41928
+run_name: gaudy-seal-463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757555190725
+status: 3
+tags: []
+user_id: alsto

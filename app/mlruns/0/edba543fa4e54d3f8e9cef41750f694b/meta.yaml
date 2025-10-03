@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/edba543fa4e54d3f8e9cef41750f694b/artifacts
+end_time: 1757671798354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edba543fa4e54d3f8e9cef41750f694b
+run_name: auspicious-smelt-309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757671797756
+status: 3
+tags: []
+user_id: alsto

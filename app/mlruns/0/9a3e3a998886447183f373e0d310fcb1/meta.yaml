@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/9a3e3a998886447183f373e0d310fcb1/artifacts
+end_time: 1757672004516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a3e3a998886447183f373e0d310fcb1
+run_name: dapper-skunk-796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757671980981
+status: 3
+tags: []
+user_id: alsto

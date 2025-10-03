@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/8f8726c0710543c6807c95202cc81c39/artifacts
+end_time: 1757556566376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f8726c0710543c6807c95202cc81c39
+run_name: clumsy-fish-820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757556563301
+status: 3
+tags: []
+user_id: alsto

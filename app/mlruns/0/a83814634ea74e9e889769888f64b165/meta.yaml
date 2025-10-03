@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/a83814634ea74e9e889769888f64b165/artifacts
+end_time: 1757588243035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a83814634ea74e9e889769888f64b165
+run_name: invincible-steed-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757588237573
+status: 3
+tags: []
+user_id: alsto

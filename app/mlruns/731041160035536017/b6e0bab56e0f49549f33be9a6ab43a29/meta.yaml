@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/b6e0bab56e0f49549f33be9a6ab43a29/artifacts
+end_time: 1757433028899
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: b6e0bab56e0f49549f33be9a6ab43a29
+run_name: nervous-asp-269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757433019800
+status: 3
+tags: []
+user_id: alsto

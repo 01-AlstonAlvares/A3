@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/5b646738cfcb4e7e9a43d48bf4f03a8c/artifacts
+end_time: 1757588274408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b646738cfcb4e7e9a43d48bf4f03a8c
+run_name: peaceful-shrimp-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757588273949
+status: 3
+tags: []
+user_id: alsto

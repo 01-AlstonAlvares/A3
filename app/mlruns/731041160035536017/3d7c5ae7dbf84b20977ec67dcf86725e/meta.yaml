@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/3d7c5ae7dbf84b20977ec67dcf86725e/artifacts
+end_time: 1757432980519
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 3d7c5ae7dbf84b20977ec67dcf86725e
+run_name: indecisive-sloth-268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757432979365
+status: 3
+tags: []
+user_id: alsto

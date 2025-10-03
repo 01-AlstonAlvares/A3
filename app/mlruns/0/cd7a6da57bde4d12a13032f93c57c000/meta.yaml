@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/cd7a6da57bde4d12a13032f93c57c000/artifacts
+end_time: 1757729929357
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd7a6da57bde4d12a13032f93c57c000
+run_name: angry-crane-748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757729902004
+status: 3
+tags: []
+user_id: alsto

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/96cf6530ae494e89a1c552c8d2a4dad0/artifacts
+end_time: 1757432706289
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 96cf6530ae494e89a1c552c8d2a4dad0
+run_name: exultant-panda-744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757432699551
+status: 3
+tags: []
+user_id: alsto

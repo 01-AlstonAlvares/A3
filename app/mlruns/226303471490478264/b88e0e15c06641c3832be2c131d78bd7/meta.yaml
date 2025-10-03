@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/b88e0e15c06641c3832be2c131d78bd7/artifacts
+end_time: 1757495709384
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: b88e0e15c06641c3832be2c131d78bd7
+run_name: dashing-auk-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495705590
+status: 3
+tags: []
+user_id: alsto

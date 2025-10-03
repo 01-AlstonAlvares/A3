@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/96f018003a184789861e2bce367a41d8/artifacts
+end_time: 1757672739063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96f018003a184789861e2bce367a41d8
+run_name: rumbling-cod-270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757672734981
+status: 3
+tags: []
+user_id: alsto

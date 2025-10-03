@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/420eb759567e4ed18ff945f429693a8a/artifacts
+end_time: 1757487426374
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: 420eb759567e4ed18ff945f429693a8a
+run_name: luxuriant-perch-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757487415183
+status: 3
+tags: []
+user_id: alsto

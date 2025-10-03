@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/eff5c38c5d924e92a22083d1a6e4ab96/artifacts
+end_time: 1757731278560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eff5c38c5d924e92a22083d1a6e4ab96
+run_name: trusting-shoat-216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757731277850
+status: 3
+tags: []
+user_id: alsto

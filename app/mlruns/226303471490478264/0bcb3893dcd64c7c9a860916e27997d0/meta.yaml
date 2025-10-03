@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/0bcb3893dcd64c7c9a860916e27997d0/artifacts
+end_time: 1757495672363
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: 0bcb3893dcd64c7c9a860916e27997d0
+run_name: unleashed-eel-528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495671102
+status: 3
+tags: []
+user_id: alsto

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/3e67dde5ab8c440d92f2df1b2643b21f/artifacts
+end_time: 1757434064849
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 3e67dde5ab8c440d92f2df1b2643b21f
+run_name: sedate-chimp-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757434046050
+status: 3
+tags: []
+user_id: alsto

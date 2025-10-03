@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/631ba74ab4064040ac93ea327e277a70/artifacts
+end_time: 1757432758933
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 631ba74ab4064040ac93ea327e277a70
+run_name: beautiful-wolf-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757432752964
+status: 3
+tags: []
+user_id: alsto

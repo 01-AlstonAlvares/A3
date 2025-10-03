@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/cb14f9144b9f48c7ac1b9f2cf0491467/artifacts
+end_time: 1757675713507
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb14f9144b9f48c7ac1b9f2cf0491467
+run_name: thundering-bug-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757675694107
+status: 3
+tags: []
+user_id: alsto

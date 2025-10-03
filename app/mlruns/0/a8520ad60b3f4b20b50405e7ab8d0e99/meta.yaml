@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/a8520ad60b3f4b20b50405e7ab8d0e99/artifacts
+end_time: 1757588357237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8520ad60b3f4b20b50405e7ab8d0e99
+run_name: chill-snail-730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757588356075
+status: 3
+tags: []
+user_id: alsto

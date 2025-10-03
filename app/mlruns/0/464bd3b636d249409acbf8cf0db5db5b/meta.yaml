@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/464bd3b636d249409acbf8cf0db5db5b/artifacts
+end_time: 1757730986712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 464bd3b636d249409acbf8cf0db5db5b
+run_name: adorable-shrike-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757730984101
+status: 3
+tags: []
+user_id: alsto

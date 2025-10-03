@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/19075c32fd9d4e38a9f360813cda7dcd/artifacts
+end_time: 1757672297819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19075c32fd9d4e38a9f360813cda7dcd
+run_name: upset-ant-358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757672293738
+status: 3
+tags: []
+user_id: alsto

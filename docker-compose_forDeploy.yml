@@ -1,0 +1,36 @@
+services:
+  dash:
+    # This is for that asking the container to execute the main.py
+    command: python3 app.py
+    # The image is a local image that you have already built.
+    image: alstonalvares/a2predictingcarprices:final
+    # For Windows, you can remove the platform constraint as Docker Desktop
+    # handles this automatically.
+    # platform: linux/x86_64
+    # This will ask DASH to run on 0.0.0.0 and port 80
+    environment:
+      - HOST=0.0.0.0
+      - PORT=80
+    # ... (rest of the configuration remains the same)
+    labels:
+      # Allow Traefik to talk with your service
+      - traefik.enable=true
+      # Tell Traefik to use port 80
+      - traefik.http.services.dash-st126488.loadbalancer.server.port=80  
+      # This config you domain name. By default, your subdomain is <service_name>-<folder_name>
+      # If you which to change the subdomain name, you uncomment the below configuration
+      - traefik.http.routers.dash-st126488.rule=Host(`st126488.ml.brain.cs.ait.ac.th`)
+      # Below is for enable SSL.
+      - traefik.http.routers.dash-st126488.tls=true
+      - traefik.http.routers.dash-st126488.tls.certresolver=production
+      - traefik.http.routers.dash-st126488.entrypoints=websecure
+    # This define network. You would need to keep it like this.
+    networks:
+      - default
+      - traefik_default
+
+# Keep it like this too.
+networks:
+  default:
+  traefik_default:
+    external: true

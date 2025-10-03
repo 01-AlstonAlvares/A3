@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/fc24c2d56a3a4a9686aefe3c03323f49/artifacts
+end_time: 1757241883353
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: fc24c2d56a3a4a9686aefe3c03323f49
+run_name: lyrical-lynx-671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757241879998
+status: 3
+tags: []
+user_id: alsto

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/b20361f36ff14af2a9cc8651f2ccbade/artifacts
+end_time: 1757728951817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b20361f36ff14af2a9cc8651f2ccbade
+run_name: enchanting-gull-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757728948870
+status: 3
+tags: []
+user_id: alsto

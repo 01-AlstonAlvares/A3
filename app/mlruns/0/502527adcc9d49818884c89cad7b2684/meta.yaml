@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/502527adcc9d49818884c89cad7b2684/artifacts
+end_time: 1757588556670
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 502527adcc9d49818884c89cad7b2684
+run_name: welcoming-yak-20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757588538481
+status: 3
+tags: []
+user_id: alsto

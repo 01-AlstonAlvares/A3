@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/eff60f69f5e14255bded19fe84ea4937/artifacts
+end_time: 1757556365855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eff60f69f5e14255bded19fe84ea4937
+run_name: serious-ape-86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757556353722
+status: 3
+tags: []
+user_id: alsto

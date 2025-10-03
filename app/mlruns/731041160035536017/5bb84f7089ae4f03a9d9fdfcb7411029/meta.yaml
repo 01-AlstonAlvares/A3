@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/5bb84f7089ae4f03a9d9fdfcb7411029/artifacts
+end_time: 1757241925946
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 5bb84f7089ae4f03a9d9fdfcb7411029
+run_name: whimsical-robin-686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757241924612
+status: 3
+tags: []
+user_id: alsto

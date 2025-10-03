@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/d947bca6a5fc4f13b22edc1dd6c30544/artifacts
+end_time: 1757729760295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d947bca6a5fc4f13b22edc1dd6c30544
+run_name: nimble-asp-481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757729754178
+status: 3
+tags: []
+user_id: alsto

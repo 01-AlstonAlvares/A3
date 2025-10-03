@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/4bc1b00e9e8b48ff92ac4efb9f0249ee/artifacts
+end_time: 1757555909929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bc1b00e9e8b48ff92ac4efb9f0249ee
+run_name: suave-skink-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757555897612
+status: 3
+tags: []
+user_id: alsto

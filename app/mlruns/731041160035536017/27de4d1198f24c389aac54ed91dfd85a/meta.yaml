@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/27de4d1198f24c389aac54ed91dfd85a/artifacts
+end_time: 1757240085600
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 27de4d1198f24c389aac54ed91dfd85a
+run_name: amazing-fly-749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757240084378
+status: 3
+tags: []
+user_id: alsto

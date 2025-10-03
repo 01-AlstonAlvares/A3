@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/60416cc0859b4f3a9a2f299f5316da1c/artifacts
+end_time: 1757495753804
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: 60416cc0859b4f3a9a2f299f5316da1c
+run_name: intrigued-perch-870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495750085
+status: 3
+tags: []
+user_id: alsto

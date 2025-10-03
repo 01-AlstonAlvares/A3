@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/4236a0c00ea1419f969a07c83957cb2c/artifacts
+end_time: 1757496802010
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: 4236a0c00ea1419f969a07c83957cb2c
+run_name: charming-mare-911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757496801837
+status: 3
+tags: []
+user_id: alsto

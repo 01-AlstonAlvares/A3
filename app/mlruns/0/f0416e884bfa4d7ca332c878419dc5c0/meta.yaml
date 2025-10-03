@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/f0416e884bfa4d7ca332c878419dc5c0/artifacts
+end_time: 1757675140874
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0416e884bfa4d7ca332c878419dc5c0
+run_name: gaudy-gull-484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757675136708
+status: 3
+tags: []
+user_id: alsto

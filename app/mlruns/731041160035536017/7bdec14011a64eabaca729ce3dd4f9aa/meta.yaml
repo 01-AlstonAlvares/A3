@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/7bdec14011a64eabaca729ce3dd4f9aa/artifacts
+end_time: 1757242161734
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 7bdec14011a64eabaca729ce3dd4f9aa
+run_name: skittish-horse-678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757242160908
+status: 3
+tags: []
+user_id: alsto

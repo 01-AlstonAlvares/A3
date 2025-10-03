@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/613c10477d4e4d9c9a3957e7ede0831c/artifacts
+end_time: 1757486866932
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 613c10477d4e4d9c9a3957e7ede0831c
+run_name: loud-kite-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757486863424
+status: 3
+tags: []
+user_id: alsto

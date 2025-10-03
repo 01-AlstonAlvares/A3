@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/942573a996fe45b5a65c7365f9fa7d16/artifacts
+end_time: 1757556699263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 942573a996fe45b5a65c7365f9fa7d16
+run_name: learned-seal-639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757556698071
+status: 3
+tags: []
+user_id: alsto

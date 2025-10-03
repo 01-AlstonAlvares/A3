@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/b44af52da36a4cd0a0b0f8c430b82759/artifacts
+end_time: 1757555479152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b44af52da36a4cd0a0b0f8c430b82759
+run_name: stylish-penguin-379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757555478821
+status: 3
+tags: []
+user_id: alsto

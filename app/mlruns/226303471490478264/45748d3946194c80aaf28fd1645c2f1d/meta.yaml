@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/45748d3946194c80aaf28fd1645c2f1d/artifacts
+end_time: 1757495704044
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: 45748d3946194c80aaf28fd1645c2f1d
+run_name: chill-doe-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495703187
+status: 3
+tags: []
+user_id: alsto

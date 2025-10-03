@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/f5d2b24554da4aaf9d2804399b4a5f13/artifacts
+end_time: 1757487475697
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: f5d2b24554da4aaf9d2804399b4a5f13
+run_name: polite-snipe-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757487470140
+status: 3
+tags: []
+user_id: alsto

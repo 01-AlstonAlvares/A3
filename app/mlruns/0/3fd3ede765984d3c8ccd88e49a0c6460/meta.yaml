@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/3fd3ede765984d3c8ccd88e49a0c6460/artifacts
+end_time: 1757673045587
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fd3ede765984d3c8ccd88e49a0c6460
+run_name: silent-skunk-69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757673044940
+status: 3
+tags: []
+user_id: alsto

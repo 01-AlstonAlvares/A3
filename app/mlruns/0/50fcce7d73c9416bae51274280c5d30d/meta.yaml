@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/50fcce7d73c9416bae51274280c5d30d/artifacts
+end_time: 1757672132886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50fcce7d73c9416bae51274280c5d30d
+run_name: dashing-snake-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757672132062
+status: 3
+tags: []
+user_id: alsto

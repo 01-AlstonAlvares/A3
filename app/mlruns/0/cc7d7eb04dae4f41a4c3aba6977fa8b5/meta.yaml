@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/cc7d7eb04dae4f41a4c3aba6977fa8b5/artifacts
+end_time: 1757672133729
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc7d7eb04dae4f41a4c3aba6977fa8b5
+run_name: youthful-boar-204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757672132890
+status: 3
+tags: []
+user_id: alsto

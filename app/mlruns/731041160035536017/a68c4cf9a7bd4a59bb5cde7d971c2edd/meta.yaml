@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/a68c4cf9a7bd4a59bb5cde7d971c2edd/artifacts
+end_time: 1757432745527
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: a68c4cf9a7bd4a59bb5cde7d971c2edd
+run_name: carefree-squid-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757432745088
+status: 3
+tags: []
+user_id: alsto

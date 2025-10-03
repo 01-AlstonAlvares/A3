@@ -1,0 +1,25 @@
+{
+    "num_cols": [
+        "car_age",
+        "km_driven",
+        "mileage",
+        "owner",
+        "km_per_year"
+    ],
+    "cat_cols": [
+        "brand"
+    ],
+    "class_names": [
+        "Class 0",
+        "Class 1",
+        "Class 2",
+        "Class 3"
+    ],
+    "price_bin_edges": [
+        29999.0,
+        270000.0,
+        455000.0,
+        695000.0,
+        10000000.0
+    ]
+}

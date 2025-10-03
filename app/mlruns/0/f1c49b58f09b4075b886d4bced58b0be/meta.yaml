@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/f1c49b58f09b4075b886d4bced58b0be/artifacts
+end_time: 1757673044935
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1c49b58f09b4075b886d4bced58b0be
+run_name: bright-worm-139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757673044196
+status: 3
+tags: []
+user_id: alsto

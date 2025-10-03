@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/e4c075f4598542ff9ce824542a8ef589/artifacts
+end_time: 1757487272962
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: e4c075f4598542ff9ce824542a8ef589
+run_name: puzzled-horse-230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757487271821
+status: 3
+tags: []
+user_id: alsto

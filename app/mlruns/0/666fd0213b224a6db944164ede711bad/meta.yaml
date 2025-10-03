@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/666fd0213b224a6db944164ede711bad/artifacts
+end_time: 1757731272450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 666fd0213b224a6db944164ede711bad
+run_name: welcoming-shad-782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757731268497
+status: 3
+tags: []
+user_id: alsto

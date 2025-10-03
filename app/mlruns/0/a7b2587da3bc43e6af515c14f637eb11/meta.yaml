@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/a7b2587da3bc43e6af515c14f637eb11/artifacts
+end_time: 1757588483351
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7b2587da3bc43e6af515c14f637eb11
+run_name: omniscient-crab-594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757588460812
+status: 3
+tags: []
+user_id: alsto

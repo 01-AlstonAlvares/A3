@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/19d0bdc709e54d7eaea5f77a78b7b0f1/artifacts
+end_time: 1757588311498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19d0bdc709e54d7eaea5f77a78b7b0f1
+run_name: monumental-fly-985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757588310267
+status: 3
+tags: []
+user_id: alsto

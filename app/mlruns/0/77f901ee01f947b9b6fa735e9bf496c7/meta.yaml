@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/77f901ee01f947b9b6fa735e9bf496c7/artifacts
+end_time: 1757588223896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77f901ee01f947b9b6fa735e9bf496c7
+run_name: luminous-stag-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757588222720
+status: 3
+tags: []
+user_id: alsto

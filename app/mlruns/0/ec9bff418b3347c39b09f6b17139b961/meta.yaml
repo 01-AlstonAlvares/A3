@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/ec9bff418b3347c39b09f6b17139b961/artifacts
+end_time: 1757556437399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec9bff418b3347c39b09f6b17139b961
+run_name: intelligent-asp-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757556434243
+status: 3
+tags: []
+user_id: alsto

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/e2a73ae731a541a18333caef13ce463a/artifacts
+end_time: 1757730046098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2a73ae731a541a18333caef13ce463a
+run_name: glamorous-seal-289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757730029827
+status: 3
+tags: []
+user_id: alsto

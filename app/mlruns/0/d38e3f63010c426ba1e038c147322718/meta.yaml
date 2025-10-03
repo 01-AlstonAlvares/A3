@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/d38e3f63010c426ba1e038c147322718/artifacts
+end_time: 1757555942975
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d38e3f63010c426ba1e038c147322718
+run_name: hilarious-calf-959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757555939862
+status: 3
+tags: []
+user_id: alsto

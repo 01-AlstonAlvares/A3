@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/c582bfa9fec044a9b4ad03544876eb41/artifacts
+end_time: 1757556700458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c582bfa9fec044a9b4ad03544876eb41
+run_name: painted-ray-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757556699272
+status: 3
+tags: []
+user_id: alsto

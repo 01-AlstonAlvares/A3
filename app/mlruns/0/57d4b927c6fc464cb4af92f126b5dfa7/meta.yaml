@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/57d4b927c6fc464cb4af92f126b5dfa7/artifacts
+end_time: 1757672310714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57d4b927c6fc464cb4af92f126b5dfa7
+run_name: popular-skink-169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757672309814
+status: 3
+tags: []
+user_id: alsto

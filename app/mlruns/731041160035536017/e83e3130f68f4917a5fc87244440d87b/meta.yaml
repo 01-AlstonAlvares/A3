@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/e83e3130f68f4917a5fc87244440d87b/artifacts
+end_time: 1757486880193
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: e83e3130f68f4917a5fc87244440d87b
+run_name: dapper-bird-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757486879239
+status: 3
+tags: []
+user_id: alsto

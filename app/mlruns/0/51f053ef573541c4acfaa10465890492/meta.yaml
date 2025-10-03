@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/51f053ef573541c4acfaa10465890492/artifacts
+end_time: 1757730716572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51f053ef573541c4acfaa10465890492
+run_name: intelligent-calf-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757730662192
+status: 3
+tags: []
+user_id: alsto

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/23a5eb4a1442444f93e3c5afcbfdbe43/artifacts
+end_time: 1757241975234
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 23a5eb4a1442444f93e3c5afcbfdbe43
+run_name: rogue-cub-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757241973860
+status: 3
+tags: []
+user_id: alsto

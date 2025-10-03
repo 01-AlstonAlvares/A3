@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/90aa7d40411845a790b058216d355f08/artifacts
+end_time: 1757496942472
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: 90aa7d40411845a790b058216d355f08
+run_name: upbeat-squid-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757496938457
+status: 3
+tags: []
+user_id: alsto

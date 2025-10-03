@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/65b9caf1d9e94921a4063bf1d10d3a07/artifacts
+end_time: 1757675282418
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65b9caf1d9e94921a4063bf1d10d3a07
+run_name: flawless-bird-665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757675278242
+status: 3
+tags: []
+user_id: alsto

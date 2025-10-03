@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/ecb7e2c377d049af90f5b567b18e49e9/artifacts
+end_time: 1757672257366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecb7e2c377d049af90f5b567b18e49e9
+run_name: judicious-tern-138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757672229602
+status: 3
+tags: []
+user_id: alsto

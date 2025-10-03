@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/44366dbd673e48d896a94394102cb97d/artifacts
+end_time: 1757242071978
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 44366dbd673e48d896a94394102cb97d
+run_name: carefree-skink-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757242070678
+status: 3
+tags: []
+user_id: alsto

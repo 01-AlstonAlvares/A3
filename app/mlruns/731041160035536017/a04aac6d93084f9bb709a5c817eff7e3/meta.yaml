@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/a04aac6d93084f9bb709a5c817eff7e3/artifacts
+end_time: 1757432790295
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: a04aac6d93084f9bb709a5c817eff7e3
+run_name: adorable-loon-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757432788890
+status: 3
+tags: []
+user_id: alsto

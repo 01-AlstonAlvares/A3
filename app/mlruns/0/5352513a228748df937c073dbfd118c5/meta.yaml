@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/5352513a228748df937c073dbfd118c5/artifacts
+end_time: 1757555327102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5352513a228748df937c073dbfd118c5
+run_name: melodic-snail-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757555321213
+status: 3
+tags: []
+user_id: alsto

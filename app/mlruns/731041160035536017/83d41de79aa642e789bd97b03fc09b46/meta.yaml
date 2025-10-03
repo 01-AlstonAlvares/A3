@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/83d41de79aa642e789bd97b03fc09b46/artifacts
+end_time: 1757432982917
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 83d41de79aa642e789bd97b03fc09b46
+run_name: debonair-skunk-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757432982569
+status: 3
+tags: []
+user_id: alsto

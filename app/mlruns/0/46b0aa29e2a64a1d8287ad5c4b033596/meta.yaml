@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/46b0aa29e2a64a1d8287ad5c4b033596/artifacts
+end_time: 1757588183259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46b0aa29e2a64a1d8287ad5c4b033596
+run_name: amusing-steed-397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757588182035
+status: 3
+tags: []
+user_id: alsto

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/395e3b72796641cfa3234a9408a78d13/artifacts
+end_time: 1757555314527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 395e3b72796641cfa3234a9408a78d13
+run_name: clean-panda-220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757555307675
+status: 3
+tags: []
+user_id: alsto

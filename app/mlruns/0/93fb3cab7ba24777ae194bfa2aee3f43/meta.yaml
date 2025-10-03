@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/93fb3cab7ba24777ae194bfa2aee3f43/artifacts
+end_time: 1757555442624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93fb3cab7ba24777ae194bfa2aee3f43
+run_name: nosy-shrike-842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757555433679
+status: 3
+tags: []
+user_id: alsto

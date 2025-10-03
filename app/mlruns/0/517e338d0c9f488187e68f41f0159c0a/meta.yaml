@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/517e338d0c9f488187e68f41f0159c0a/artifacts
+end_time: 1757729074313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 517e338d0c9f488187e68f41f0159c0a
+run_name: traveling-hen-630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757729013172
+status: 3
+tags: []
+user_id: alsto

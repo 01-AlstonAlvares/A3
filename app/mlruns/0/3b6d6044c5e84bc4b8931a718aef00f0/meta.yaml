@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/3b6d6044c5e84bc4b8931a718aef00f0/artifacts
+end_time: 1757676088074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b6d6044c5e84bc4b8931a718aef00f0
+run_name: intrigued-carp-445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757676083955
+status: 3
+tags: []
+user_id: alsto

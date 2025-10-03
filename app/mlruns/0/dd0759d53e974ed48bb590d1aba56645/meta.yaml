@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/dd0759d53e974ed48bb590d1aba56645/artifacts
+end_time: 1757554968102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd0759d53e974ed48bb590d1aba56645
+run_name: fortunate-dove-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757554961197
+status: 3
+tags: []
+user_id: alsto

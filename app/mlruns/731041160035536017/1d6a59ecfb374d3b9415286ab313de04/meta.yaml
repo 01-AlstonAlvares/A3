@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/1d6a59ecfb374d3b9415286ab313de04/artifacts
+end_time: 1757487028608
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 1d6a59ecfb374d3b9415286ab313de04
+run_name: luminous-sponge-558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757487028102
+status: 3
+tags: []
+user_id: alsto

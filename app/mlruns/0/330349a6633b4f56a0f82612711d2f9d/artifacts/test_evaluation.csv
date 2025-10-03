@@ -1,0 +1,2 @@
+test_mse,test_r2,reg_type,reg_param,gd_type,init_type,momentum,lr
+0.14129154220159298,0.7895528988963636,polynomial,none,batch,zeros,True,0.01

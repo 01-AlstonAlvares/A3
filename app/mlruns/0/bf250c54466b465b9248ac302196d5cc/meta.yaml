@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/bf250c54466b465b9248ac302196d5cc/artifacts
+end_time: 1757588440650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf250c54466b465b9248ac302196d5cc
+run_name: flawless-flea-754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757588437500
+status: 3
+tags: []
+user_id: alsto

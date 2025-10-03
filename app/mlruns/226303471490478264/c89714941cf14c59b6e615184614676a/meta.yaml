@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/c89714941cf14c59b6e615184614676a/artifacts
+end_time: 1757495742595
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: c89714941cf14c59b6e615184614676a
+run_name: grandiose-yak-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495738525
+status: 3
+tags: []
+user_id: alsto

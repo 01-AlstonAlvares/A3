@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/8ec474d7ccfe436aa7ea00e9b456e7bc/artifacts
+end_time: 1757554975079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ec474d7ccfe436aa7ea00e9b456e7bc
+run_name: loud-turtle-601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757554968110
+status: 3
+tags: []
+user_id: alsto

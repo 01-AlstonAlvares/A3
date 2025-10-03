@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/99afd12e691c4101aa34d17eef0f7470/artifacts
+end_time: 1757495589066
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: 99afd12e691c4101aa34d17eef0f7470
+run_name: rambunctious-ray-266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495584051
+status: 3
+tags: []
+user_id: alsto

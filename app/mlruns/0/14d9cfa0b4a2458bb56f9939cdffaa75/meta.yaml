@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/14d9cfa0b4a2458bb56f9939cdffaa75/artifacts
+end_time: 1757675744040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14d9cfa0b4a2458bb56f9939cdffaa75
+run_name: abrasive-zebra-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757675743219
+status: 3
+tags: []
+user_id: alsto

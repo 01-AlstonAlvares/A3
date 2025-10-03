@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/815cd6c9631f4a3cbea7323e587e0873/artifacts
+end_time: 1757496774159
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: 815cd6c9631f4a3cbea7323e587e0873
+run_name: ambitious-wolf-153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757496767170
+status: 3
+tags: []
+user_id: alsto

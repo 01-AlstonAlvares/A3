@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/98aea2900efb497c91d4b5e9869019cd/artifacts
+end_time: 1757495822812
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: 98aea2900efb497c91d4b5e9869019cd
+run_name: aged-wren-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495816239
+status: 3
+tags: []
+user_id: alsto

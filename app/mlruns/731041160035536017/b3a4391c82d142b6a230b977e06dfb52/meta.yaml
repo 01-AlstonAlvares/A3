@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/b3a4391c82d142b6a230b977e06dfb52/artifacts
+end_time: 1757433829556
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: b3a4391c82d142b6a230b977e06dfb52
+run_name: luminous-dove-706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757433829134
+status: 3
+tags: []
+user_id: alsto

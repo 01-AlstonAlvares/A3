@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/79169f9f73614000aeaffb9286316658/artifacts
+end_time: 1757555412214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79169f9f73614000aeaffb9286316658
+run_name: kindly-crab-213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757555410951
+status: 3
+tags: []
+user_id: alsto

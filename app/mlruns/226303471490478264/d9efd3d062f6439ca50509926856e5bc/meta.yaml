@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/d9efd3d062f6439ca50509926856e5bc/artifacts
+end_time: 1757487553584
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: d9efd3d062f6439ca50509926856e5bc
+run_name: youthful-fish-259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757487545259
+status: 3
+tags: []
+user_id: alsto

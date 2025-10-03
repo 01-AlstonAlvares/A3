@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/925f5c63f3b04ba59ebfaa6bbb91853a/artifacts
+end_time: 1757487682598
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: 925f5c63f3b04ba59ebfaa6bbb91853a
+run_name: secretive-fly-185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757487671779
+status: 3
+tags: []
+user_id: alsto

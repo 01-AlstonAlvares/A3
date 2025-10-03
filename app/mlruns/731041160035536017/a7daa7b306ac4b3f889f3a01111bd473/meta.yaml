@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/a7daa7b306ac4b3f889f3a01111bd473/artifacts
+end_time: 1757432739122
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: a7daa7b306ac4b3f889f3a01111bd473
+run_name: thoughtful-fawn-577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757432737857
+status: 3
+tags: []
+user_id: alsto

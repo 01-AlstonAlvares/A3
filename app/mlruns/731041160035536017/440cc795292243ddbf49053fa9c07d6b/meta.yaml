@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/440cc795292243ddbf49053fa9c07d6b/artifacts
+end_time: 1757467082808
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 440cc795292243ddbf49053fa9c07d6b
+run_name: clumsy-cat-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757467082471
+status: 3
+tags: []
+user_id: alsto

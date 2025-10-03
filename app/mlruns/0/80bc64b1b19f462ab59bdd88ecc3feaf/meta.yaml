@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/80bc64b1b19f462ab59bdd88ecc3feaf/artifacts
+end_time: 1757730662169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80bc64b1b19f462ab59bdd88ecc3feaf
+run_name: rebellious-ant-992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757730591217
+status: 3
+tags: []
+user_id: alsto

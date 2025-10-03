@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/73eaaa6217db45359f0418ddaf64dd16/artifacts
+end_time: 1757676088763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73eaaa6217db45359f0418ddaf64dd16
+run_name: dapper-rat-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757676088080
+status: 3
+tags: []
+user_id: alsto

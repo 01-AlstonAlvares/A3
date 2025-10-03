@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/84cb99edd04d4d62831f5a8379df557a/artifacts
+end_time: 1757467128177
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 84cb99edd04d4d62831f5a8379df557a
+run_name: upbeat-cub-922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757467127841
+status: 3
+tags: []
+user_id: alsto

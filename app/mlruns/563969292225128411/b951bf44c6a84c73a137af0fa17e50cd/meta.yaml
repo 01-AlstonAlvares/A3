@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/alsto/OneDrive/Desktop/AIT/Machine Learning/assignments/A3/app/mlruns/563969292225128411/b951bf44c6a84c73a137af0fa17e50cd/artifacts
+end_time: 1758471831290
+entry_point_name: ''
+experiment_id: '563969292225128411'
+lifecycle_stage: active
+run_id: b951bf44c6a84c73a137af0fa17e50cd
+run_name: lr_0.1_lambda_0.1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758471820570
+status: 4
+tags: []
+user_id: alsto

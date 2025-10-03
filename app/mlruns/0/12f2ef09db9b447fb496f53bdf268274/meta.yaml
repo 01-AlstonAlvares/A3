@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/12f2ef09db9b447fb496f53bdf268274/artifacts
+end_time: 1757554991244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12f2ef09db9b447fb496f53bdf268274
+run_name: rare-sheep-937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757554990026
+status: 3
+tags: []
+user_id: alsto

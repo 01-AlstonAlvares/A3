@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/9f6c252915c44d9ab2eeca7986673d24/artifacts
+end_time: 1757496915691
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: 9f6c252915c44d9ab2eeca7986673d24
+run_name: victorious-hen-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757496911923
+status: 3
+tags: []
+user_id: alsto

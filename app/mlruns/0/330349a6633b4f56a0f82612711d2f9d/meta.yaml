@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/330349a6633b4f56a0f82612711d2f9d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 330349a6633b4f56a0f82612711d2f9d
+run_name: sedate-dog-177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757676141740
+status: 1
+tags: []
+user_id: alsto

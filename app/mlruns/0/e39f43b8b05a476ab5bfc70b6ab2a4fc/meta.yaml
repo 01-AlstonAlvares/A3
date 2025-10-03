@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/e39f43b8b05a476ab5bfc70b6ab2a4fc/artifacts
+end_time: 1757728940469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e39f43b8b05a476ab5bfc70b6ab2a4fc
+run_name: abrasive-hound-362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757728937703
+status: 3
+tags: []
+user_id: alsto

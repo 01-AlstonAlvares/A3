@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/9754eef77681425fa3edabf2f9f7eb1a/artifacts
+end_time: 1757486658467
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 9754eef77681425fa3edabf2f9f7eb1a
+run_name: fortunate-chimp-97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757486652352
+status: 3
+tags: []
+user_id: alsto

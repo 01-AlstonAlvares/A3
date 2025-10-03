@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/a18323d5a12c4b11a604e2607ae35da1/artifacts
+end_time: 1757556451573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a18323d5a12c4b11a604e2607ae35da1
+run_name: thundering-finch-747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757556450654
+status: 3
+tags: []
+user_id: alsto

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/bc537b06b85049e79c36d7afc1aa960f/artifacts
+end_time: 1757240089536
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: bc537b06b85049e79c36d7afc1aa960f
+run_name: nebulous-frog-673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757240088137
+status: 3
+tags: []
+user_id: alsto

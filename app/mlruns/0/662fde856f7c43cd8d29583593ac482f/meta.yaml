@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/662fde856f7c43cd8d29583593ac482f/artifacts
+end_time: 1757675045435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 662fde856f7c43cd8d29583593ac482f
+run_name: merciful-kit-158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757675024917
+status: 3
+tags: []
+user_id: alsto

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/9cb49d9b075f4d13b8d34727f7ff7855/artifacts
+end_time: 1757432786433
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 9cb49d9b075f4d13b8d34727f7ff7855
+run_name: worried-sheep-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757432785182
+status: 3
+tags: []
+user_id: alsto

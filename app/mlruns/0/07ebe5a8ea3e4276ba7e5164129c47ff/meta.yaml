@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/07ebe5a8ea3e4276ba7e5164129c47ff/artifacts
+end_time: 1757588188745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07ebe5a8ea3e4276ba7e5164129c47ff
+run_name: enchanting-steed-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757588188399
+status: 3
+tags: []
+user_id: alsto

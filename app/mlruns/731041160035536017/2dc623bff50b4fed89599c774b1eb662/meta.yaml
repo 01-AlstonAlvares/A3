@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/2dc623bff50b4fed89599c774b1eb662/artifacts
+end_time: 1757487003391
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 2dc623bff50b4fed89599c774b1eb662
+run_name: nosy-smelt-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757486996437
+status: 3
+tags: []
+user_id: alsto

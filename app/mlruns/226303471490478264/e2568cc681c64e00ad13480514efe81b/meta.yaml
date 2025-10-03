@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/226303471490478264/e2568cc681c64e00ad13480514efe81b/artifacts
+end_time: 1757495665105
+entry_point_name: ''
+experiment_id: '226303471490478264'
+lifecycle_stage: active
+run_id: e2568cc681c64e00ad13480514efe81b
+run_name: abundant-sheep-286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495660752
+status: 3
+tags: []
+user_id: alsto

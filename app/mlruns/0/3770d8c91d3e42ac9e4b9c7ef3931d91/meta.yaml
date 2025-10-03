@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/3770d8c91d3e42ac9e4b9c7ef3931d91/artifacts
+end_time: 1757730989345
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3770d8c91d3e42ac9e4b9c7ef3931d91
+run_name: big-zebra-798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757730986733
+status: 3
+tags: []
+user_id: alsto

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/4834ccbca0164ce69c2446feca0dd55c/artifacts
+end_time: 1757731279262
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4834ccbca0164ce69c2446feca0dd55c
+run_name: dazzling-steed-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757731278567
+status: 3
+tags: []
+user_id: alsto

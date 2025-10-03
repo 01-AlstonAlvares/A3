@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/efb65c60d0bc4eb59a3526df584424fa/artifacts
+end_time: 1757588232200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efb65c60d0bc4eb59a3526df584424fa
+run_name: adorable-mule-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757588231839
+status: 3
+tags: []
+user_id: alsto

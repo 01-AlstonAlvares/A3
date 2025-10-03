@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/0/82de14dca5584743b6ff73374c3c07b5/artifacts
+end_time: 1757555294502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82de14dca5584743b6ff73374c3c07b5
+run_name: auspicious-tern-35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757555289082
+status: 3
+tags: []
+user_id: alsto

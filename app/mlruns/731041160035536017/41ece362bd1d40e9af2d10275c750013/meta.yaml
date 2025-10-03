@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/alsto/OneDrive/Desktop/AIT/Machine%20Learning/assignments/A2%20-%20Predicting%20Car%20Prices/app/mlruns/731041160035536017/41ece362bd1d40e9af2d10275c750013/artifacts
+end_time: 1757467509941
+entry_point_name: ''
+experiment_id: '731041160035536017'
+lifecycle_stage: active
+run_id: 41ece362bd1d40e9af2d10275c750013
+run_name: abrasive-elk-53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757467489615
+status: 3
+tags: []
+user_id: alsto
