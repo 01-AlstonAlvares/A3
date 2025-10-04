@@ -110,5 +110,12 @@ Once deployed, the Flask API can serve real-time car price predictions via simpl
 ## 👥 Contributors
 
 **Author:** Alston Alvares
+
+
+**Student ID:** st126488 
+
+
 **Institution:** Asian Institute of Technology (AIT)  
+
+
 **Department:** Data Science and Artificial Intelligence  
