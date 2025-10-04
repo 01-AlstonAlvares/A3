@@ -1,4 +1,4 @@
-# 🚗 Car Price Prediction – MLOps Pipeline
+# 🚗 A3 Car Price Prediction – MLOps Pipeline
 
 A complete **MLOps project** demonstrating the training, tracking, and deployment of a machine learning model for predicting the **price category of used cars**.  
 This repository implements a **fully automated CI/CD pipeline** powered by **GitHub Actions** and **MLflow**.
