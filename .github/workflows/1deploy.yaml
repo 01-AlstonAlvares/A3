@@ -33,17 +33,15 @@ jobs:
         env:
           MLFLOW_TRACKING_USERNAME: ${{ secrets.MLFLOW_TRACKING_USERNAME }}
           MLFLOW_TRACKING_PASSWORD: ${{ secrets.MLFLOW_TRACKING_PASSWORD }}
-        run: python app/test.py # Assumes you have a test_model.py script
+        run: python app/test_model.py # Assumes you have a test_model.py script
 
   # --------------------------------------------------------------------
   # Job 2: Continuous Deployment (CD) - Build and Deploy
-  # This job will only run if the 'test' job completes successfully.
   # --------------------------------------------------------------------
   deploy:
     needs: test
     runs-on: ubuntu-latest
-    # --- FIX: Specify the deployment environment ---
-    # This gives the job access to the secrets and variables defined in the 'KEY' environment.
+    # Specify the deployment environment to access its secrets and variables
     environment: KEY
     steps:
       - name: Check out repository
@@ -74,26 +72,24 @@ jobs:
       - name: Deploy to Server via SSH
         uses: appleboy/ssh-action@v1.0.0
         with:
-          # Use the 'vars' context for environment variables
           host: ${{ vars.HOST }}
           username: ${{ secrets.USERNAME }}
           key: ${{ secrets.KEY }}
-          # Use the 'vars' context for the proxy host, assuming it's also in the 'KEY' environment
           proxy_host: ${{ vars.PROXY_HOST }}
           proxy_username: ${{ secrets.USERNAME }}
           proxy_key: ${{ secrets.KEY }}
           script: |
-            # Pull the new image from Docker Hub, using the Git tag for the version
+            # Pull the new image from Docker Hub
             docker pull ${{ secrets.DOCKERHUB_USERNAME }}/car-price-predictor-a3:${{ steps.meta.outputs.version }}
             
             # Stop and remove the old container if it exists
             docker stop car-predictor-app || true
             docker rm car-predictor-app || true
             
-            # Run the new container, passing MLflow credentials as environment variables
+            # Run the new container
             docker run -d \
               --name car-predictor-app \
-              -p 80:5000 \
+              -p 8080:5000 \
               -e MLFLOW_TRACKING_USERNAME=${{ secrets.MLFLOW_TRACKING_USERNAME }} \
               -e MLFLOW_TRACKING_PASSWORD=${{ secrets.MLFLOW_TRACKING_PASSWORD }} \
               ${{ secrets.DOCKERHUB_USERNAME }}/car-price-predictor-a3:${{ steps.meta.outputs.version }}
