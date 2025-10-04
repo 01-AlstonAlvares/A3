@@ -22,4 +22,4 @@ ENV MLFLOW_TRACKING_PASSWORD=${MLFLOW_TRACKING_PASSWORD}
 
 # --- The CMD instruction is the command that runs when the container starts ---
 # Instead of running a web app, we now tell it to run the test script.
-CMD ["python", "app/test_model.py"]
+CMD ["python", "app/app.py"]

@@ -27,23 +27,26 @@ model_uri = f"models:/{model_name}@{model_alias}"
 # Load Model and Assets from MLflow
 # -------------------------------
 try:
-    # Load the model pipeline from the MLflow Model Registry.
-    # This downloads the entire model package, including artifacts, in one step.
+    # Step 1: Load the model pipeline from the MLflow Model Registry.
     print(f"Loading model '{model_name}' with alias '{model_alias}' from MLflow...")
     model_pipeline: PyFuncModel = mlflow.pyfunc.load_model(model_uri)
     print("✅ Model loaded successfully from MLflow.")
 
-    # --- FIX: Find the already-downloaded assets.json file ---
-    # The model's metadata contains the local path to its downloaded artifacts.
-    model_info = model_pipeline.metadata.get_model_info()
-    # The model_uri will now be a local file path, e.g., 'C:\\Users\\...\\model'
-    local_model_path = model_info.model_uri
+    # --- FIX: Explicitly download the assets artifact using the model's run_id ---
+    print("Downloading associated assets from MLflow...")
+    # Get the run_id from the loaded model's metadata
+    run_id = model_pipeline.metadata.get_model_info().run_id
     
-    # Construct the path to the assets file within the downloaded artifacts
-    assets_path = os.path.join(local_model_path, "model_assets", "assets.json")
+    client = MlflowClient()
+    
+    # Step 2: Download the assets directory to a temporary local path
+    local_assets_dir = client.download_artifacts(run_id, "model_assets", ".")
+    
+    # Construct the full path to the assets.json file
+    assets_path = os.path.join(local_assets_dir, "assets.json")
     
     if not os.path.exists(assets_path):
-        raise FileNotFoundError("assets.json not found in the downloaded model artifacts.")
+        raise FileNotFoundError(f"assets.json not found in the downloaded artifacts at {local_assets_dir}")
 
     with open(assets_path, "r") as f:
         assets = json.load(f)
@@ -54,7 +57,7 @@ try:
     
     # This is the full list of features the model pipeline expects
     features = num_cols + cat_cols
-    print("✅ Assets loaded successfully from local artifact path.")
+    print("✅ Assets loaded successfully from MLflow artifacts.")
 
 except Exception as e:
     print(f"🚨 Failed to load model or assets from MLflow: {e}")
@@ -187,10 +190,22 @@ else:
                 'car_age': car_age, 'km_driven': km_driven, 'mileage': mileage,
                 'owner': owner, 'brand': brand, 'km_per_year': km_per_year
             }
-            df_input = pd.DataFrame([user_input], columns=features)
+            df_input = pd.DataFrame([user_input])
+            
+            # --- FIX: Explicitly cast data types to match the model's schema ---
+            # The schema requires specific integer and float types.
+            df_input['car_age'] = df_input['car_age'].astype(np.int64)
+            df_input['km_driven'] = df_input['km_driven'].astype(np.int64)
+            df_input['owner'] = df_input['owner'].astype(np.int64)
+            df_input['mileage'] = df_input['mileage'].astype(np.float64)
+            df_input['km_per_year'] = df_input['km_per_year'].astype(np.float64)
+
+            # Reorder columns to be certain they match the model's expectation
+            df_input = df_input[features]
             
             print("\n[DEBUG] Data sent to model:")
             print(df_input.to_string())
+            print(df_input.dtypes)
 
             # The loaded model is a pyfunc model, so we predict on the DataFrame
             predicted_class = model_pipeline.predict(df_input)[0]
