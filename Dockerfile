@@ -12,7 +12,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir --default-timeout=100 -r requirements.txt
 
 # Expose port
-EXPOSE 8000
+EXPOSE 5000
 
 # Define environment variables for MLflow credentials.
 # These will be used by the test script inside the container to authenticate.
@@ -22,4 +22,4 @@ ENV MLFLOW_TRACKING_PASSWORD=${MLFLOW_TRACKING_PASSWORD}
 
 # --- The CMD instruction is the command that runs when the container starts ---
 # Instead of running a web app, we now tell it to run the test script.
-CMD ["python", "app/app.py"]
+CMD ["python", "app.py"]

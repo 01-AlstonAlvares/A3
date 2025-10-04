@@ -1,0 +1,36 @@
+# This workflow is for manually promoting the "Staging" model to "Production".
+# It is designed to be triggered on-demand from the GitHub Actions UI.
+
+name: Promote Model to Production
+
+# Trigger the workflow manually from the Actions tab
+on:
+  workflow_dispatch:
+
+jobs:
+  promote:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Check out the repository code
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      # Step 2: Set up the Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      # Step 3: Install the required Python packages
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f app/requirements.txt ]; then pip install -r app/requirements.txt; fi
+
+      # Step 4: Run the promotion script
+      # This securely passes your MLflow credentials to the script.
+      - name: Promote Staging model to Production
+        env:
+          MLFLOW_TRACKING_USERNAME: ${{ secrets.MLFLOW_TRACKING_USERNAME }}
+          MLFLOW_TRACKING_PASSWORD: ${{ secrets.MLFLOW_TRACKING_PASSWORD }}
+        run: python app/promote_to_production.py
