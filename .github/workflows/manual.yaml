@@ -1,0 +1,40 @@
+# This workflow allows for manual testing of the model currently in the "Staging" alias.
+# It is designed to be triggered on-demand from the GitHub Actions UI.
+
+name: Test Model on Staging
+
+# Name of this run
+run-name: ${{ github.actor }} is manually testing the Staging model
+
+# --- Trigger ---
+# on: workflow_dispatch allows you to run this workflow manually from the Actions tab
+on: workflow_dispatch
+
+jobs:
+  # Define a single job called "staging-test"
+  staging-test:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Check out the repository code
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      # Step 2: Set up the Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      # Step 3: Install the required Python packages
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f app/requirements.txt ]; then pip install -r app/requirements.txt; fi
+
+      # Step 4: Run the unit tests against the "Staging" model in MLflow
+      # This step securely passes your MLflow credentials as environment variables.
+      - name: Run model tests
+        env:
+          MLFLOW_TRACKING_USERNAME: ${{ secrets.MLFLOW_TRACKING_USERNAME }}
+          MLFLOW_TRACKING_PASSWORD: ${{ secrets.MLFLOW_TRACKING_PASSWORD }}
+        run: python app/test.py
