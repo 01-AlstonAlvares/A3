@@ -1,51 +1,114 @@
-Car Price Prediction Project - MLOps Pipeline
-This repository contains a machine learning project to predict the price category of used cars. It features a complete MLOps pipeline using GitHub Actions for Continuous Integration (CI) and Continuous Deployment (CD), with all experiments tracked on a remote MLflow server.
+# 🚗 Car Price Prediction – MLOps Pipeline
 
-Project Overview
-The core of this project is a multinomial logistic regression model that classifies used cars into one of four price brackets. The model is built from scratch in Python and trained on a preprocessed version of the car price dataset.
+A complete **MLOps project** demonstrating the training, tracking, and deployment of a machine learning model for predicting the **price category of used cars**.  
+This repository implements a **fully automated CI/CD pipeline** powered by **GitHub Actions** and **MLflow**.
 
-The main focus of this repository is the automated CI/CD pipeline which handles:
+---
 
-Continuous Integration (CI): Automatically testing the registered "Staging" model every time a new version is pushed.
+## 📖 Project Overview
 
-Continuous Deployment (CD): Automatically building a Docker image and deploying the model-serving application to a remote server.
+The project centers on a **Multinomial Logistic Regression model**, built **from scratch in Python**, to classify used cars into one of four price brackets.  
+The workflow covers the **entire machine learning lifecycle** — from **data preprocessing** and **feature engineering** to **hyperparameter tuning**, **evaluation**, and **deployment**.
 
-Project Structure
-The repository is organized as follows:
+All experiments, metrics, and artifacts are tracked using a **remote MLflow server**, ensuring complete reproducibility.
 
-.github/workflows/main.yml: The main GitHub Actions workflow file that defines the entire CI/CD pipeline.
+### 🔧 Core Objectives
+- Build a **custom Logistic Regression model** with L2 regularization.  
+- Automate **training, testing, and deployment** through GitHub Actions.  
+- Deploy the trained model as a **REST API** using Flask and Docker.  
+- Track experiments and model versions via **MLflow**.
 
-app/: This directory contains all the application and testing code.
+---
 
-app.py: A Flask application that loads the trained model from MLflow and serves predictions via a REST API.
+## ⚙️ CI/CD Pipeline Overview
 
-test_model.py: An automated unit test script that validates the "Staging" model from the MLflow registry.
+The CI/CD pipeline automates the **end-to-end machine learning workflow**, including continuous testing, model validation, and production deployment.
 
-requirements.txt: A list of all Python packages required to run the application and tests.
+### 🧩 Continuous Integration (CI)
+- Automatically runs **unit tests** against the “Staging” model on each version update.
+- Ensures that only **validated models** proceed to deployment.
 
-A3_Classification_Final_Improved.ipynb: The main Jupyter Notebook used for data preprocessing, feature engineering, model training, and experiment tracking with MLflow.
+### 🚀 Continuous Deployment (CD)
+- Builds a **Docker image** of the Flask-based model API.
+- Deploys the containerized model to a **remote server** for production use.
 
-custom_classifier.py: A custom Python class containing the from-scratch implementation of the LogisticRegression model.
+### 🏷️ Triggering a Deployment
+To create a new deployment, push a **Git tag** to the repository:
 
-Dockerfile: Instructions for building a containerized version of the Flask application.
-
-Model & Experiment Tracking
-Model: A custom LogisticRegression model with L2 (Ridge) regularization, trained to solve a 4-class classification problem.
-
-Feature Engineering: The model uses several engineered features for improved accuracy, including car_age and km_per_year.
-
-Experiment Tracking: All training runs, including hyperparameter tuning, metrics, and model artifacts, are logged to a centralized MLflow server located at http://mlflow.ml.brain.cs.ait.ac.th/.
-
-CI/CD Pipeline Workflow
-The pipeline is defined in the .github/workflows/main.yml file and automates the entire release process.
-
-Trigger
-The workflow is automatically triggered whenever a new Git tag starting with v is pushed to the repository. This is a standard practice for creating versioned releases.
-
-Example of how to trigger a new deployment:
-
+```bash
 # After committing your changes, create a new version tag
 git tag v1.0.1
 
-# Push the tag to your GitHub repository
+# Push the tag to trigger CI/CD pipeline
 git push origin v1.0.1
+```
+
+---
+
+## 📂 Project Structure
+
+| File / Directory | Description |
+|------------------|-------------|
+| `.github/workflows/main.yml` | Defines the GitHub Actions CI/CD workflow. |
+| `app/` | Contains the Flask app and automated test scripts. |
+| ├── `app.py` | Flask application that loads the model from MLflow and serves predictions via REST API. |
+| ├── `test_model.py` | Unit tests to validate the “Staging” model from MLflow. |
+| └── `requirements.txt` | Dependencies required for running the app and tests. |
+| `A3_Classification_Final_Improved.ipynb` | Main Jupyter Notebook for preprocessing, training, and tracking experiments. |
+| `custom_classifier.py` | Custom implementation of the Logistic Regression classifier. |
+| `Dockerfile` | Instructions to build the containerized model-serving application. |
+
+---
+
+## 🧪 Model & Experiment Tracking
+
+### 🧠 Model
+- **Type:** Multinomial Logistic Regression (from scratch)
+- **Regularization:** L2 (Ridge) to reduce overfitting
+- **Target:** Price category classification
+
+### 🔍 Feature Engineering
+- **`car_age`** – Derived from the manufacturing year  
+- **`km_per_year`** – Represents usage intensity  
+
+These features significantly improve model accuracy by capturing meaningful relationships.
+
+### 📊 Experiment Tracking
+- **Platform:** MLflow  
+- **Tracked Items:** Parameters, metrics, models, and artifacts  
+- **Benefit:** Enables full reproducibility and model comparison  
+
+MLflow UI: [http://mlflow.ml.brain.cs.ait.ac.th/](http://mlflow.ml.brain.cs.ait.ac.th/)
+
+---
+
+## 🐳 Deployment
+
+The deployment uses **Docker** for consistent, isolated environments:
+
+```bash
+# Build Docker image
+docker build -t car-price-predictor .
+
+# Run container locally
+docker run -p 5000:5000 car-price-predictor
+```
+
+Once deployed, the Flask API can serve real-time car price predictions via simple HTTP requests.
+
+---
+
+## 🧠 Key Highlights
+
+- ✅ Custom-built ML model (no scikit-learn dependency)
+- ✅ Automated model validation and CI/CD pipeline
+- ✅ Full experiment tracking via MLflow
+- ✅ Scalable deployment using Docker and Flask
+
+---
+
+## 👥 Contributors
+
+**Author:** [Your Name]  
+**Institution:** Asian Institute of Technology (AIT)  
+**Course:** Machine Learning Operations (MLOps)  
